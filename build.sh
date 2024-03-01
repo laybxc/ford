@@ -3,7 +3,7 @@
 # Author: Ming Zhang
 # Copyright (c) 2022
 
-BUILD_TARGET=client
+BUILD_TARGET=client asd 
 BUILD_TYPE=Release
 
 while getopts "sd" arg
